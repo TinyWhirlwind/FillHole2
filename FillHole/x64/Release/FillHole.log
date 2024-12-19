@@ -1,0 +1,180 @@
+﻿  MeshData.cpp
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(56,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(68,31): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(73,28): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244: “参数”: 从“const P3ScalarType”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:             P3ScalarType=double
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         and
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,58): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244: “参数”: 从“const P3ScalarType”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:             P3ScalarType=double
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         and
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,48): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244: “参数”: 从“const P3ScalarType”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:             P3ScalarType=double
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         and
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(158,38): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(407,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(409,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(416,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(426,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(443,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(445,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(452,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(462,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(578,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(585,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(598,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(622,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(630,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(680,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(702,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(926,20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(959,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(977,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1003,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1004,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1005,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1016,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,49): warning C4244: “参数”: 从“double”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,49): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,49): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,49): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,49): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,45): warning C4244: “参数”: 从“double”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,45): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,45): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,45): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,45): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,41): warning C4244: “参数”: 从“double”转换到“const P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,41): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,41): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,41): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(1103,41): warning C4244:         ]
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18): warning C4244: “初始化”: 从“double”转换到“P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18): warning C4244:         ]
+  (编译源文件“basic/GeoData/MeshData.cpp”)
+  D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(230,18):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\FaceNormal.h(25,11):
+  	查看对正在编译的 类 模板 实例化“Point3<float>”的引用
+  	D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(228,18):
+  	在编译 类 模板 成员函数“Point3<float> &Point3<float>::Normalize(void)”时
+  		D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(527,23):
+  		请参阅 "sn3DCore::sn3DMeshData::UpdateNormal" 中对 "Point3<float>::Normalize" 的第一个引用
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14): warning C4244: “return”: 从“double”转换到“P3ScalarType”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14): warning C4244:         with
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14): warning C4244:         [
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14): warning C4244:             P3ScalarType=float
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14): warning C4244:         ]
+  (编译源文件“basic/GeoData/MeshData.cpp”)
+  D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(204,14):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Myproject\DllLibrary\FillHole\FillHole\basic\Common\Point3.h(202,22):
+  	在编译 类 模板 成员函数“P3ScalarType Point3<P3ScalarType>::Norm(void) const”时
+          with
+          [
+              P3ScalarType=float
+          ]
+  		D:\Myproject\DllLibrary\FillHole\FillHole\basic\GeoData\MeshData.cpp(603,21):
+  		请参阅 "sn3DCore::sn3DMeshData::GetAvgEdgeLen" 中对 "Point3<float>::Norm" 的第一个引用
+  
+  MeshTopology.cpp
+  PointsData.cpp
+  SpaceBox.cpp
+D:\Myproject\DllLibrary\FillHole\FillHole\basic\Geometry\SpaceBox.cpp(49,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  FillHole.cpp
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(16,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(17,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(34,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(35,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(47,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(88,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(115,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244: “/=”: 从“const OtherScalar”转换到“_Ty”，可能丢失数据
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         with
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         [
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:             OtherScalar=double
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         ]
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         and
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         [
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:             _Ty=float
+D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22): warning C4244:         ]
+  (编译源文件“FillHole.cpp”)
+  D:\OpenMesh\src\OpenMesh\Core\Geometry\Vector11T.hh(253,22):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(305,17):
+  	查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator /=<double>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+  		D:\Myproject\DllLibrary\FillHole\FillHole\FillHole.cpp(305,17):
+  		请参阅 "FillHole::ReplaceTriangle" 中对 "OpenMesh::VectorT<float,3>::operator /=" 的第一个引用
+  
+  FillHoleInterface.cpp
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(10,20): warning C4273: “FillHoleInterface::FillHoleInterface”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(23,2):
+  参见“{ctor}”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(13,20): warning C4273: “FillHoleInterface::FillHoleInterface”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(24,2):
+  参见“{ctor}”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(36,21): warning C4273: “FillHoleInterface::~FillHoleInterface”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(25,3):
+  参见“{dtor}”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(41,25): warning C4273: “FillHoleInterface::SetMesh”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(28,7):
+  参见“SetMesh”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(79,62): warning C4273: “FillHoleInterface::GetMesh”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(29,44):
+  参见“GetMesh”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(103,50): warning C4273: “FillHoleInterface::CheckBoundarys”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(30,32):
+  参见“CheckBoundarys”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(118,24): warning C4273: “FillHoleInterface::GetHoleNumber”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(31,6):
+  参见“GetHoleNumber”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(122,25): warning C4273: “FillHoleInterface::ApplyFillHole”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(32,7):
+  参见“ApplyFillHole”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(126,25): warning C4273: “FillHoleInterface::ApplyFillHole”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(33,7):
+  参见“ApplyFillHole”的前一个定义
+  
+D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.cpp(130,25): warning C4273: “FillHoleInterface::MeshRefinement”: dll 链接不一致
+  D:\Myproject\DllLibrary\FillHole\FillHole\FillHoleInterface.h(34,7):
+  参见“MeshRefinement”的前一个定义
+  
+    正在创建库 D:\Myproject\DllLibrary\FillHole\x64\Release\FillHole.lib 和对象 D:\Myproject\DllLibrary\FillHole\x64\Release\FillHole.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 3792 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FillHole.vcxproj -> D:\Myproject\DllLibrary\FillHole\x64\Release\FillHole.dll
